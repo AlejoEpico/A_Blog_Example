@@ -5,3 +5,7 @@ in this project i used several subjects like html5, css3 and several commands in
 
 #In this course I saw everything related to the world of git and gitHub.
 - It was very grateful to immerse in this fantastic world and I really enjoyed. Thanks a lot Platzi.
+
+#Git cherry-pick: 
+
+- traer commits viejos al head de un branch
